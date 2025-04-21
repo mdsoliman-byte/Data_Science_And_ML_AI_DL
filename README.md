@@ -1,2 +1,1 @@
-# Data_Science_And_ML_AI_DL
-Data Science And ML
+# Data Science, Machine Learning, Generative-AI, and Deep Learning 
